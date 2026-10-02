@@ -1,0 +1,5 @@
+node_modules/
+dist/
+scraped_site/
+downloaded_assets/
+.DS_Store
